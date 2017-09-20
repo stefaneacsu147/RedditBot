@@ -1,3 +1,3 @@
 # Reddit Bot
 
-Work in progress
+XKCD
