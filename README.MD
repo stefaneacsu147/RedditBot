@@ -1,3 +1,3 @@
 # Reddit Bot
 
-To be edited...
+Red
