@@ -1,2 +1,2 @@
 # Reddit Bot
-- test
+- Python
