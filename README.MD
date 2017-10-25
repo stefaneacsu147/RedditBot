@@ -1,2 +1,2 @@
-# Reddit Bot
+# Reddit Bot.
 
