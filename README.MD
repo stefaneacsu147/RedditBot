@@ -1,4 +1,4 @@
-# Reddit Bot
+# Bot for Reddit
 
 
 
