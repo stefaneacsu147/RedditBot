@@ -1,3 +1,3 @@
-# RedditBot
+# Reddit Bot
 
 
