@@ -1,2 +1,2 @@
-# RedditBot[WIP]
+# RedditBot
 RedditBot made for my subreddit.
