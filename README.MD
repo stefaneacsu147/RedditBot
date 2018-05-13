@@ -1,2 +1,2 @@
 # RedditBot
-RedditBot made for my subreddit.
+Lorem ipsum
