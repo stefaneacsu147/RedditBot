@@ -1,2 +1,1 @@
 # RedditBot
-Lorem ipsum
